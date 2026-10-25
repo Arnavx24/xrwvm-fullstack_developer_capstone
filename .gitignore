@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+generate_screenshots.py
+assignment_output/
 
 # C extensions
 *.so

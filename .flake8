@@ -1,0 +1,9 @@
+[flake8]
+max-line-length = 120
+exclude =
+    .git,
+    __pycache__,
+    *migrations*,
+    assignment_output,
+    generate_screenshots.py
+ignore = E501, W503
