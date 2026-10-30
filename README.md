@@ -1,5 +1,5 @@
 # Dealerships Review Portal - Fullstack Software Developer Capstone Project
-by Meet Pabari
+by Arnav Kulkarni ([Arnavx24](https://github.com/Arnavx24))
 
 ## Overview
 
@@ -145,4 +145,6 @@ The solution architecture consists of the following components:
 - Lavanya - Full-Stack Developer
 - Yan Luo - Backend Developer
 - Priya - Frontend Developer
-- **Meet Pabari - Full-Stack Developer**
+- **Arnav Kulkarni - Full-Stack Developer**
+
+
